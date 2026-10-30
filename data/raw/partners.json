@@ -1,0 +1,98 @@
+{
+ "dura": {
+  "slug": "dura",
+  "title": "Dura Flow",
+  "paras": [
+   "Choose a product category by Dura Flow",
+   "UPVC for drainage & plumbing",
+   "Heat-resistant pipe solutions",
+   "Durable water storage tanks",
+   "Flexible garden hoses"
+  ],
+  "cards": [
+   {
+    "title": "Dura Flow PVC",
+    "blurb": "UPVC for drainage & plumbing",
+    "target": "products-pvc-dura"
+   },
+   {
+    "title": "Dura Flow PPRC",
+    "blurb": "Heat-resistant pipe solutions",
+    "target": "products-pprc-dura"
+   },
+   {
+    "title": "Dura Water Tanks",
+    "blurb": "Durable water storage tanks",
+    "target": "products-tanks-dura"
+   },
+   {
+    "title": "Dura Garden Pipes",
+    "blurb": "Flexible garden hoses",
+    "target": "products-garden-dura"
+   }
+  ]
+ },
+ "iil": {
+  "slug": "iil",
+  "title": "International Industries Limited (IIL)",
+  "paras": [
+   "Choose a product category by IIL",
+   "Industrial grade PVC",
+   "Industrial grade PPRC"
+  ],
+  "cards": [
+   {
+    "title": "IIL PVC",
+    "blurb": "Industrial grade PVC",
+    "target": "products-pvc-iil"
+   },
+   {
+    "title": "IIL PPRC",
+    "blurb": "Industrial grade PPRC",
+    "target": "products-pprc-iil"
+   }
+  ]
+ },
+ "popular": {
+  "slug": "popular",
+  "title": "Popular Pipes",
+  "paras": [
+   "Choose a product category by Popular Pipes",
+   "UPVC Pipes, Fittings & Electrical",
+   "Heat-resistant pipe solutions"
+  ],
+  "cards": [
+   {
+    "title": "Popular PVC",
+    "blurb": "UPVC Pipes, Fittings & Electrical",
+    "target": "sub-pvc-popular-categories"
+   },
+   {
+    "title": "Popular PPRC",
+    "blurb": "Heat-resistant pipe solutions",
+    "target": "products-pprc-popular"
+   }
+  ]
+ },
+ "turkplast": {
+  "slug": "turkplast",
+  "title": "Turk Plast",
+  "paras": [
+   "Choose a product category by Turk Plast",
+   "Premium UPVC fittings",
+   "Premium PPRC systems"
+  ],
+  "cards": [
+   {
+    "title": "Turk Plast PVC",
+    "blurb": "Premium UPVC fittings",
+    "target": "products-pvc-turkplast"
+   },
+   {
+    "title": "Turk Plast PPRC",
+    "blurb": "Premium PPRC systems",
+    "target": "products-pprc-turkplast"
+   }
+  ]
+ }
+}

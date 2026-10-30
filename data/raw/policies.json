@@ -1,0 +1,156 @@
+{
+ "privacy-policy": {
+  "slug": "privacy-policy",
+  "title": "Privacy Policy",
+  "blocks": [
+   {
+    "type": "h1",
+    "text": "Privacy Policy"
+   },
+   {
+    "type": "h3",
+    "text": "1. Introduction"
+   },
+   {
+    "type": "p",
+    "text": "Welcome to Akbar Sanitary Store. We value your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you visit our website or visit our showroom."
+   },
+   {
+    "type": "h3",
+    "text": "2. Information We Collect"
+   },
+   {
+    "type": "p",
+    "text": "We may collect personal information such as your name, contact number, and address when you make an inquiry via our contact form or WhatsApp. This information is used solely to provide you with the services and products you request."
+   },
+   {
+    "type": "h3",
+    "text": "3. Use of Information"
+   },
+   {
+    "type": "p",
+    "text": "Your information is used for processing orders, responding to inquiries, and improving our customer service. We do not sell or share your personal data with third parties for marketing purposes."
+   }
+  ]
+ },
+ "terms-conditions": {
+  "slug": "terms-conditions",
+  "title": "Terms & Conditions",
+  "blocks": [
+   {
+    "type": "h1",
+    "text": "Terms & Conditions"
+   },
+   {
+    "type": "h3",
+    "text": "1. General"
+   },
+   {
+    "type": "p",
+    "text": "By accessing this website, you agree to comply with and be bound by these terms and conditions. The content of this website is for your general information and use only."
+   },
+   {
+    "type": "h3",
+    "text": "2. Product Accuracy"
+   },
+   {
+    "type": "p",
+    "text": "While we strive for accuracy, product specifications and availability may change without notice. Images are for illustrative purposes; the actual product may vary slightly in appearance."
+   },
+   {
+    "type": "h3",
+    "text": "3. Pricing"
+   },
+   {
+    "type": "p",
+    "text": "Prices are subject to change due to market conditions. For the most accurate and up-to-date pricing, please contact us directly via the provided phone numbers or visit our store."
+   }
+  ]
+ },
+ "exchange-return": {
+  "slug": "exchange-return",
+  "title": "Exchange & Return",
+  "blocks": [
+   {
+    "type": "h1",
+    "text": "Exchange & Return"
+   },
+   {
+    "type": "h3",
+    "text": "1. Exchange Policy"
+   },
+   {
+    "type": "p",
+    "text": "Items can be exchanged within 7 days of purchase, provided they are in their original packaging, unused, and accompanied by the original receipt."
+   },
+   {
+    "type": "h3",
+    "text": "2. Non-Returnable Items"
+   },
+   {
+    "type": "p",
+    "text": "Custom-ordered items, broken tiles, or items that have been installed are not eligible for exchange or return. Please inspect all goods upon delivery."
+   },
+   {
+    "type": "h3",
+    "text": "3. Return Process"
+   },
+   {
+    "type": "p",
+    "text": "To initiate a return or exchange, please visit our showroom on Ghazi Road with the product and proof of purchase. Final decision on returns rests with the store management."
+   }
+  ]
+ },
+ "refund-policy": {
+  "slug": "refund-policy",
+  "title": "Refund Policy",
+  "blocks": [
+   {
+    "type": "h1",
+    "text": "Refund Policy"
+   },
+   {
+    "type": "h3",
+    "text": "1. Eligibility"
+   },
+   {
+    "type": "p",
+    "text": "Refunds are only processed if a product is found to have a manufacturing defect and cannot be replaced with a similar item. Change of mind is not applicable for refunds."
+   },
+   {
+    "type": "h3",
+    "text": "2. Process"
+   },
+   {
+    "type": "p",
+    "text": "Refunds will be processed through the original method of payment or store credit, depending on the situation, within 5-7 working days after approval."
+   }
+  ]
+ },
+ "cancellation-policy": {
+  "slug": "cancellation-policy",
+  "title": "Cancellation Policy",
+  "blocks": [
+   {
+    "type": "h1",
+    "text": "Cancellation Policy"
+   },
+   {
+    "type": "h3",
+    "text": "1. Order Cancellation"
+   },
+   {
+    "type": "p",
+    "text": "Orders can be canceled within 24 hours of placement or before they are dispatched for delivery. Once the items have left our warehouse, cancellation is not possible."
+   },
+   {
+    "type": "h3",
+    "text": "2. Advance Payments"
+   },
+   {
+    "type": "p",
+    "text": "Advance payments for special bookings or custom orders are non-refundable in case of cancellation by the customer."
+   }
+  ]
+ }
+}

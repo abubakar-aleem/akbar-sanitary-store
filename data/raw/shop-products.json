@@ -1,0 +1,1238 @@
+[
+ {
+  "id": "p01",
+  "name": "Dura PPR-C 25mmPipe PN-16",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": 890,
+  "price": 800,
+  "sale": true,
+  "sizes": [
+   "25mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p02",
+  "name": "Dura PPR-C 32mm Pipe PN-16",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": 2507,
+  "price": 1250,
+  "sale": true,
+  "sizes": [
+   "32mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p03",
+  "name": "Dura PPR-C 40mm Pipe PN-16",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 1850,
+  "sale": true,
+  "sizes": [
+   "40mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p04",
+  "name": "Dura Socket 25mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 1850,
+  "sale": true,
+  "sizes": [
+   "25mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p05",
+  "name": "Dura Socket 32mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 1850,
+  "sale": true,
+  "sizes": [
+   "32mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p06",
+  "name": "Dura Socket 40mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 1850,
+  "sale": true,
+  "sizes": [
+   "40mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p07",
+  "name": "Dura Elbow 90° 25mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 1850,
+  "sale": true,
+  "sizes": [
+   "25mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p08",
+  "name": "Dura Elbow 90° 32mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 1850,
+  "sale": true,
+  "sizes": [
+   "32mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p09",
+  "name": "Dura Elbow 90° 40mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 1850,
+  "sale": true,
+  "sizes": [
+   "40mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p10",
+  "name": "Dura TEE 25mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 30,
+  "sale": true,
+  "sizes": [
+   "25mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p11",
+  "name": "Dura TEE 32mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 50,
+  "sale": true,
+  "sizes": [
+   "32mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p12",
+  "name": "Dura TEE 40mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 75,
+  "sale": true,
+  "sizes": [
+   "40mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p13",
+  "name": "Dura TEE 25x1/2mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 140,
+  "sale": true,
+  "sizes": [
+   "25mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p14",
+  "name": "Dura TEE 32x1/2mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 250,
+  "sale": true,
+  "sizes": [
+   "32mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p15",
+  "name": "Dura TEE 25x3/4mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 350,
+  "sale": true,
+  "sizes": [
+   "40mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p16",
+  "name": "Dura TEE 32x3/4mm",
+  "image": "pprc pipes.jpeg",
+  "category": "pipes",
+  "oldPrice": null,
+  "price": 450,
+  "sale": true,
+  "sizes": [
+   "40mm"
+  ],
+  "description": "Dura PPR-C Pipe PN-16 is a high-quality plumbing pipe suitable for hot and cold water distribution systems. Durable, leak-proof and easy to install.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p17",
+  "name": "Instant Hot Water Faucet",
+  "image": "./electric tap.png",
+  "category": "faucets",
+  "oldPrice": 3500,
+  "price": 3000,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Electric instant hot water faucet with fast-heating technology for kitchens and bathrooms. Safe, reliable and energy efficient.",
+  "reviews": [
+   {
+    "name": "Ahmed K.",
+    "rating": 5,
+    "comment": "Excellent product! Works perfectly in cold weather."
+   }
+  ]
+ },
+ {
+  "id": "p18",
+  "name": "Basin Mixer Faucet",
+  "image": "./Basin-Mixer.jpg",
+  "category": "faucets",
+  "oldPrice": 2950,
+  "price": 2650,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Premium chrome basin mixer faucet with smooth single-lever control. Elegant design fits modern bathrooms.",
+  "reviews": [
+   {
+    "name": "Zara M.",
+    "rating": 5,
+    "comment": "Beautiful finish, smooth operation."
+   }
+  ]
+ },
+ {
+  "id": "p19",
+  "name": "Kitchen Sink Mixer",
+  "image": "./sink mixer.jpg",
+  "category": "faucets",
+  "oldPrice": 2950,
+  "price": 2650,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "High-arc kitchen sink mixer with 360° swivel spout. Perfect for large sinks and heavy kitchen use.",
+  "reviews": []
+ },
+ {
+  "id": "p20",
+  "name": "Masjid Mixture Tap",
+  "image": "./Masjid-Mixture.jpg",
+  "category": "faucets",
+  "oldPrice": 4850,
+  "price": 4500,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Specially designed Masjid Mixture Tap with anti-drip mechanism and durable chrome finish.",
+  "reviews": [
+   {
+    "name": "Bilal A.",
+    "rating": 4,
+    "comment": "Good quality for the price, very durable."
+   }
+  ]
+ },
+ {
+  "id": "p21",
+  "name": "Head Shower Set",
+  "image": "./head shower.jpeg",
+  "category": "showers",
+  "oldPrice": null,
+  "price": 390,
+  "sale": false,
+  "sizes": [
+   "4 inch",
+   "6 inch",
+   "8 inch"
+  ],
+  "description": "Overhead rain shower head with adjustable spray pattern. Provides a luxurious shower experience.",
+  "reviews": [
+   {
+    "name": "Sara N.",
+    "rating": 5,
+    "comment": "Amazing water pressure."
+   }
+  ]
+ },
+ {
+  "id": "p22",
+  "name": "Winner Toilet Shower",
+  "image": "./toilet shower.jpeg",
+  "category": "showers",
+  "oldPrice": null,
+  "price": 390,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Hygienic hand shower for toilet use. Includes copper rod, brass spring and durable hose pipe.",
+  "reviews": []
+ },
+ {
+  "id": "p23",
+  "name": "PELL Shower Set",
+  "image": "./PELL SHOWER SET .jpeg",
+  "category": "showers",
+  "oldPrice": 13500,
+  "price": 12900,
+  "sale": true,
+  "sizes": [
+   "Standard",
+   "Premium"
+  ],
+  "description": "Complete shower set with overhead rain shower, hand shower, and body jets. Full chrome finish.",
+  "reviews": [
+   {
+    "name": "Usman H.",
+    "rating": 5,
+    "comment": "Premium quality, worth every rupee!"
+   }
+  ]
+ },
+ {
+  "id": "p24",
+  "name": "Decent Toilet Shower with Pipe",
+  "image": "./Toilet-Shower with pipe.png",
+  "category": "showers",
+  "oldPrice": null,
+  "price": 1280,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Complete toilet shower with flexible stainless steel pipe. Easy installation and long service life.",
+  "reviews": []
+ },
+ {
+  "id": "p25",
+  "name": "Chrome Shinner Polish",
+  "image": "./SHINER.png",
+  "category": "accessories",
+  "oldPrice": 650,
+  "price": 499,
+  "sale": true,
+  "sizes": [
+   "200ml"
+  ],
+  "description": "Powerful chrome shinner that restores shine and removes stains from all chrome sanitary fittings. Leaves a protective coating.",
+  "reviews": [
+   {
+    "name": "Imran T.",
+    "rating": 5,
+    "comment": "Works like magic on chrome."
+   }
+  ]
+ },
+ {
+  "id": "p26",
+  "name": "Basin Waste Fitting",
+  "image": "./baisanWaste.png",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 450,
+  "sale": false,
+  "sizes": [
+   "standard"
+  ],
+  "description": "High-quality basin waste fitting with chrome cap. Easy installation and leak-free performance.",
+  "reviews": []
+ },
+ {
+  "id": "p27",
+  "name": "Push Floor Waste",
+  "image": "./push floor waste.jpg",
+  "category": "accessories",
+  "oldPrice": 800,
+  "price": 620,
+  "sale": true,
+  "sizes": [
+   "4 inch",
+   "6 inch"
+  ],
+  "description": "Push-type chrome floor waste for bathrooms. Anti-odor seal and heavy-duty construction.",
+  "reviews": [
+   {
+    "name": "Fatima R.",
+    "rating": 4,
+    "comment": "Good quality and easy to install."
+   }
+  ]
+ },
+ {
+  "id": "p28",
+  "name": "Nozzle Cock Tap",
+  "image": "./Nozzle-Cock.jpg",
+  "category": "faucets",
+  "oldPrice": null,
+  "price": 1450,
+  "sale": false,
+  "sizes": [
+   "1/2\"",
+   "3/4\""
+  ],
+  "description": "Brass nozzle cock with hose connection. Ideal for garden use, tank outlets and utility taps.",
+  "reviews": []
+ },
+ {
+  "id": "p29",
+  "name": "Mirror & Accessory Set",
+  "image": "./MIRROR AND ACCES.jpg",
+  "category": "accessories",
+  "oldPrice": 5500,
+  "price": 4200,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Premium 5-piece bathroom accessory set with mirror, towel rod, toilet roll holder, soap dish and tumbler holder.",
+  "reviews": [
+   {
+    "name": "Hina S.",
+    "rating": 5,
+    "comment": "Beautiful set, matches modern decor perfectly."
+   }
+  ]
+ },
+ {
+  "id": "p30",
+  "name": "Bib Cock Single",
+  "image": "./bib-cock-.jpg",
+  "category": "faucets",
+  "oldPrice": null,
+  "price": 580,
+  "sale": false,
+  "sizes": [
+   "1/2\"",
+   "3/4\""
+  ],
+  "description": "Heavy duty brass bib cock with chrome plating. Quarter-turn ceramic disc cartridge for drip-free operation.",
+  "reviews": []
+ },
+ {
+  "id": "p31",
+  "name": "Double Bib Cock",
+  "image": "./double bib cock.jpeg",
+  "category": "faucets",
+  "oldPrice": 1200,
+  "price": 980,
+  "sale": true,
+  "sizes": [
+   "1/2\"",
+   "3/4\""
+  ],
+  "description": "Heavy-duty double bib cock for simultaneous hot and cold water connections. Chrome finish.",
+  "reviews": []
+ },
+ {
+  "id": "p32",
+  "name": "Vanity Push Waste",
+  "image": "./Push_vanity_Waste.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 450,
+  "sale": false,
+  "sizes": [
+   "4\""
+  ],
+  "description": "Pop-up click clack Vanity Push Waste for wash basins. Brass body with chrome finish.",
+  "reviews": []
+ },
+ {
+  "id": "p33",
+  "name": "Spindle",
+  "image": "./spindle-.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 240,
+  "sale": false,
+  "sizes": [
+   "2.75 size"
+  ],
+  "description": "Heavy duty brass spindle with silicone rubber. Quarter-turn ceramic disc cartridge for drip-free operation.",
+  "reviews": []
+ },
+ {
+  "id": "p34",
+  "name": "Waste pipe/ Drain pipe",
+  "image": "./wastepipe.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 240,
+  "sale": false,
+  "sizes": [
+   "standard"
+  ],
+  "description": "Heavy-duty waste pipe/ Drain pipe for simultaneous hot and cold water connections.",
+  "reviews": []
+ },
+ {
+  "id": "p35",
+  "name": "Complain waste pipe",
+  "image": "./wag",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 180,
+  "sale": false,
+  "sizes": [
+   "standard"
+  ],
+  "description": "Heavy-duty waste pipe/ Drain pipe for simultaneous hot and cold water connections.",
+  "reviews": []
+ },
+ {
+  "id": "p36",
+  "name": "12 inches SS Bathroom Helping Handle Grip",
+  "image": "./commod handle.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 580,
+  "sale": false,
+  "sizes": [
+   "12\""
+  ],
+  "description": "Standard and Long sizes available in premium SS finish.",
+  "reviews": []
+ },
+ {
+  "id": "p37",
+  "name": "14 inches SS Bathroom Helping Handle Grip",
+  "image": "./commod handle.jpg",
+  "category": "accessories",
+  "oldPrice": 1200,
+  "price": 980,
+  "sale": true,
+  "sizes": [
+   "14\""
+  ],
+  "description": "Heavy-duty double bib cock for simultaneous hot and cold water connections. Chrome finish.",
+  "reviews": [
+   {
+    "name": "Malik J.",
+    "rating": 4,
+    "comment": "Solid brass, works perfectly."
+   }
+  ]
+ },
+ {
+  "id": "p38",
+  "name": "Baisan Bolt Kit",
+  "image": "./bkit.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 240,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "High quality basin bolt kit for secure installation.",
+  "reviews": []
+ },
+ {
+  "id": "p39",
+  "name": "SS Baisan Bolt Kit",
+  "image": "./ssboltkit.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 290,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Stainless steel basin bolt kit for long-lasting durability.",
+  "reviews": []
+ },
+ {
+  "id": "p40",
+  "name": "1/2 Dura Handle Valve",
+  "image": "./handle valve.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 650,
+  "sale": false,
+  "sizes": [
+   "1/2"
+  ],
+  "description": "High quality handle valve for precise water control.",
+  "reviews": []
+ },
+ {
+  "id": "p41",
+  "name": "3/4 Dura Handle Valve",
+  "image": "./handle valve.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 750,
+  "sale": false,
+  "sizes": [
+   "3/4"
+  ],
+  "description": "High quality handle valve for precise water control.",
+  "reviews": []
+ },
+ {
+  "id": "p42",
+  "name": "6\" Master Wave Floor Waste",
+  "image": "./wave waste.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 290,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Stylish floor waste with efficient drainage pattern.",
+  "reviews": []
+ },
+ {
+  "id": "p43",
+  "name": "6\" PVC DELL Wave Floor Waste",
+  "image": "./wave waste.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 290,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Durable PVC floor waste for modern bathrooms.",
+  "reviews": []
+ },
+ {
+  "id": "p44",
+  "name": "Commode Bolt-Kit",
+  "image": "./boltkit.jpg",
+  "category": "sanitary wares",
+  "oldPrice": null,
+  "price": 190,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Complete bolt kit for commode installation.",
+  "reviews": []
+ },
+ {
+  "id": "p45",
+  "name": "Civic PVC Bib Cock",
+  "image": "./bibcock.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 350,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Reliable PVC bib cock for everyday use.",
+  "reviews": []
+ },
+ {
+  "id": "p46",
+  "name": "SS Bathroom Shelf",
+  "image": "./shelf.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 450,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Stainless steel shelf for organized bathroom storage.",
+  "reviews": []
+ },
+ {
+  "id": "p47",
+  "name": "4peg Wall Hook OR Hanger",
+  "image": "./Push_e.jpg",
+  "category": "accessories",
+  "oldPrice": null,
+  "price": 450,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Wall-mounted 4-peg hanger for towels and robes.",
+  "reviews": []
+ },
+ {
+  "id": "p48",
+  "name": "Luxury Rainfall Shower Head",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Rainfall+Shower",
+  "category": "showers",
+  "oldPrice": 3500,
+  "price": 2800,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "High quality luxury rainfall shower head with chrome finish.",
+  "reviews": []
+ },
+ {
+  "id": "p49",
+  "name": "Chrome Waterfall Basin Mixer",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Basin+Mixer",
+  "category": "taps",
+  "oldPrice": 5200,
+  "price": 4500,
+  "sale": false,
+  "sizes": [
+   "Standard",
+   "Premium"
+  ],
+  "description": "Elegant waterfall style basin mixer for modern bathrooms.",
+  "reviews": []
+ },
+ {
+  "id": "p50",
+  "name": "PPR-C Gate Valve 25mm",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Gate+Valve",
+  "category": "fittings",
+  "oldPrice": 2200,
+  "price": 1800,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Durable PPR-C gate valve for reliable water flow control.",
+  "reviews": []
+ },
+ {
+  "id": "p51",
+  "name": "Stainless Steel Floor Drain",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Floor+Drain",
+  "category": "accessories",
+  "oldPrice": 1500,
+  "price": 1200,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Rust-proof stainless steel floor drain with anti-odor trap.",
+  "reviews": []
+ },
+ {
+  "id": "p52",
+  "name": "Ceramic Wall-Hung Commode",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Commode",
+  "category": "accessories",
+  "oldPrice": 18500,
+  "price": 15800,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Premium ceramic wall-hung commode with soft-close seat.",
+  "reviews": []
+ },
+ {
+  "id": "p53",
+  "name": "Flexible Kitchen Sink Tap",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Kitchen+Tap",
+  "category": "taps",
+  "oldPrice": 4200,
+  "price": 3500,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "360-degree flexible kitchen sink tap for easy usage.",
+  "reviews": []
+ },
+ {
+  "id": "p54",
+  "name": "Brass Angle Valve 1/2\"",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Angle+Valve",
+  "category": "fittings",
+  "oldPrice": 1200,
+  "price": 950,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Heavy duty brass angle valve for geysers and basins.",
+  "reviews": []
+ },
+ {
+  "id": "p55",
+  "name": "Decorative Mirror Cabinet",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Mirror+Cabinet",
+  "category": "accessories",
+  "oldPrice": 8500,
+  "price": 7200,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Stylish wall-mounted mirror cabinet for storage.",
+  "reviews": []
+ },
+ {
+  "id": "p56",
+  "name": "PVC Waste Pipe 4-inch",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Waste+Pipe",
+  "category": "fittings",
+  "oldPrice": 2900,
+  "price": 2400,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "High quality PVC waste pipe for efficient drainage.",
+  "reviews": []
+ },
+ {
+  "id": "p57",
+  "name": "Dual Flush Tank System",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Flush+Tank",
+  "category": "accessories",
+  "oldPrice": 4500,
+  "price": 3800,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Water-saving dual flush system for toilets.",
+  "reviews": []
+ },
+ {
+  "id": "p58",
+  "name": "Satin Finish Towel Rack",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Towel+Rack",
+  "category": "accessories",
+  "oldPrice": 3800,
+  "price": 3200,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Premium satin finish towel rack for luxury bathrooms.",
+  "reviews": []
+ },
+ {
+  "id": "p59",
+  "name": "High-Pressure Toilet Jet",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Toilet+Jet",
+  "category": "showers",
+  "oldPrice": 2500,
+  "price": 1900,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Powerful hand-held toilet jet with flexible hose.",
+  "reviews": []
+ },
+ {
+  "id": "p60",
+  "name": "Concealed Shower Mixer",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Shower+Mixer",
+  "category": "taps",
+  "oldPrice": 6500,
+  "price": 5800,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Concealed hot and cold shower mixer with brass body.",
+  "reviews": []
+ },
+ {
+  "id": "p61",
+  "name": "PPR-C Union 32mm",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=PPRC+Union",
+  "category": "fittings",
+  "oldPrice": 850,
+  "price": 650,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "High quality PPR-C union for pipe connections.",
+  "reviews": []
+ },
+ {
+  "id": "p62",
+  "name": "Glass Corner Shelf",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Corner+Shelf",
+  "category": "accessories",
+  "oldPrice": 2200,
+  "price": 1650,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "8mm thick glass corner shelf with SS brackets.",
+  "reviews": []
+ },
+ {
+  "id": "p63",
+  "name": "Antique Brass Bib Cock",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Antique+Tap",
+  "category": "taps",
+  "oldPrice": 3200,
+  "price": 2800,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Antique design brass bib cock for a classic look.",
+  "reviews": []
+ },
+ {
+  "id": "p64",
+  "name": "Heavy Duty Basin Bolt Kit",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Bolt+Kit",
+  "category": "fittings",
+  "oldPrice": 450,
+  "price": 320,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Complete basin fixing kit with heavy duty bolts.",
+  "reviews": []
+ },
+ {
+  "id": "p65",
+  "name": "Automatic Sensor Faucet",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Sensor+Faucet",
+  "category": "taps",
+  "oldPrice": 12500,
+  "price": 9800,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Touchless automatic sensor faucet for hygiene.",
+  "reviews": []
+ },
+ {
+  "id": "p66",
+  "name": "Stainless Steel Soap Dispenser",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Soap+Dispenser",
+  "category": "accessories",
+  "oldPrice": 2800,
+  "price": 2100,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Wall-mounted SS soap dispenser with refillable tank.",
+  "reviews": []
+ },
+ {
+  "id": "p67",
+  "name": "PPR-C Female Elbow 25x1/2",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Female+Elbow",
+  "category": "fittings",
+  "oldPrice": 350,
+  "price": 240,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "PPR-C elbow with brass thread for tap connection.",
+  "reviews": []
+ },
+ {
+  "id": "p68",
+  "name": "Modern Bathroom Vanity Set",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Vanity+Set",
+  "category": "accessories",
+  "oldPrice": 25000,
+  "price": 21500,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Complete bathroom vanity set with cabinet and basin.",
+  "reviews": []
+ },
+ {
+  "id": "p69",
+  "name": "LED Backlit Wall Mirror",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=LED+Mirror",
+  "category": "accessories",
+  "oldPrice": 12000,
+  "price": 9500,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Smart wall mirror with LED backlight and touch button.",
+  "reviews": []
+ },
+ {
+  "id": "p70",
+  "name": "Push-Type Pop-up Waste",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Pop-up+Waste",
+  "category": "accessories",
+  "oldPrice": 1500,
+  "price": 1100,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Chrome plated push-type pop-up waste for basins.",
+  "reviews": []
+ },
+ {
+  "id": "p71",
+  "name": "Multi-Function Hand Shower",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Hand+Shower",
+  "category": "showers",
+  "oldPrice": 2900,
+  "price": 2200,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "3-way adjustable hand shower with flexible hose.",
+  "reviews": []
+ },
+ {
+  "id": "p72",
+  "name": "Braided Flexible Hose Pipe",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Hose+Pipe",
+  "category": "fittings",
+  "oldPrice": 650,
+  "price": 480,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Stainless steel braided flexible hose for water connection.",
+  "reviews": []
+ },
+ {
+  "id": "p73",
+  "name": "CPVC Pipe 1-inch",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=CPVC+Pipe",
+  "category": "fittings",
+  "oldPrice": 1800,
+  "price": 1450,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "High temperature resistant CPVC pipe for hot water.",
+  "reviews": []
+ },
+ {
+  "id": "p74",
+  "name": "Wall Mounted Toothbrush Holder",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Brush+Holder",
+  "category": "accessories",
+  "oldPrice": 1200,
+  "price": 850,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Stylish wall mounted holder for brushes and tumbler.",
+  "reviews": []
+ },
+ {
+  "id": "p75",
+  "name": "Commercial Sink Faucet",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Sink+Faucet",
+  "category": "taps",
+  "oldPrice": 5500,
+  "price": 4800,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Heavy duty commercial sink faucet for restaurants.",
+  "reviews": []
+ },
+ {
+  "id": "p76",
+  "name": "Soft-Close Commode Cover",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Commode+Cover",
+  "category": "accessories",
+  "oldPrice": 2500,
+  "price": 1900,
+  "sale": true,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Universal soft-close commode seat cover.",
+  "reviews": []
+ },
+ {
+  "id": "p77",
+  "name": "Brass Stop Cock 3/4\"",
+  "image": "https://placehold.co/600x600/008080/ffffff?text=Stop+Cock",
+  "category": "fittings",
+  "oldPrice": 1800,
+  "price": 1450,
+  "sale": false,
+  "sizes": [
+   "Standard"
+  ],
+  "description": "Full flow brass stop cock for main water lines.",
+  "reviews": []
+ }
+]

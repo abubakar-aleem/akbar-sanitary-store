@@ -1,0 +1,428 @@
+{
+ "door-locks": {
+  "slug": "door-locks",
+  "page": "sub-door-locks",
+  "title": "Door Locks",
+  "blurb": "Secure your home with our premium collection",
+  "cards": [
+   {
+    "target": "products-main-door-locks",
+    "title": "Main Door Locks",
+    "blurb": "Heavy-duty entrance security"
+   },
+   {
+    "target": "products-handle-locks",
+    "title": "Handle Locks",
+    "blurb": "Internal door style & security"
+   }
+  ]
+ },
+ "faucets": {
+  "slug": "faucets",
+  "page": "sub-faucets",
+  "title": "Faucets , Mixers & Accessories",
+  "blurb": "Select a type",
+  "cards": [
+   {
+    "target": "products-faucet-Instant",
+    "title": "Instant Hot Water Faucet Tap | Electric Geyser Tap",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-basin",
+    "title": "Basin Mixer",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-kitchen",
+    "title": "Kitchen Mixer",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-shower",
+    "title": "Wall-Shower Mixer",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Masjid-Mixer",
+    "title": "Masjid Mixer",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-bib-cock",
+    "title": "Bib Cock",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-nozel-cock",
+    "title": "Nozel-Cock",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-double-bib-cock",
+    "title": "Double Bib Cock",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-sink-cock",
+    "title": "Sink Cock",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-side-pillar-cock",
+    "title": "Side Pilar Cock/Basin Cock",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-tee cock",
+    "title": "Tee Cock",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-mixture-pipe",
+    "title": "Mixture Pipe",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-toilet-shower",
+    "title": "Toilet Shower",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-toiletshower-with-pipe",
+    "title": "Toilet Shower with Pipe",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-hand-shower",
+    "title": "Hand-Shower with Pipe",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-head-jetshower",
+    "title": "Head-Jet Shower",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Head-Shower-T-ARM",
+    "title": "Head-Shower-T-ARM",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Head-Shower-single-T-ARM",
+    "title": "Head-Shower-single-T-ARM",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Shower-rod",
+    "title": "Shower-rod",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-necks",
+    "title": "Taps Neck",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Adopter",
+    "title": "Divider for Water-Filter",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-baisanWaste",
+    "title": "Baisan-Waste",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-sink-Waste",
+    "title": "Sink-Waste",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Vanity Push-Waste",
+    "title": "Vanity Push-Waste",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-S-Elbow",
+    "title": "S-Elbow",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-waste-pipe",
+    "title": "Waste pipe",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Tap and Mixers Head",
+    "title": "Tap and Mixtures Head",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Spindle",
+    "title": "Spindle",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Tap-levers",
+    "title": "Tap-Levers",
+    "blurb": ""
+   },
+   {
+    "target": "products-faucet-Tap-levers-kits",
+    "title": "Tap-Levers-Kits",
+    "blurb": ""
+   }
+  ]
+ },
+ "garden-pipes": {
+  "slug": "garden-pipes",
+  "page": "sub-garden-pipes",
+  "title": "Garden Pipes",
+  "blurb": "Select a Brand",
+  "cards": [
+   {
+    "target": "products-garden-dura",
+    "title": "Dura Garden Pipe",
+    "blurb": ""
+   },
+   {
+    "target": "products-garden-terebela",
+    "title": "Terebela Garden Pipe",
+    "blurb": ""
+   },
+   {
+    "target": "products-garden-suction",
+    "title": "Vital Suction Steel Wire Garden Pipes",
+    "blurb": ""
+   }
+  ]
+ },
+ "gas": {
+  "slug": "gas",
+  "page": "sub-gas",
+  "title": "Gas Pipes & Fittings",
+  "blurb": "Choose Gas Pipes or Gas Fittings to view products",
+  "cards": [
+   {
+    "target": "products-gas-pipes",
+    "title": "Gas Pipes",
+    "blurb": "High quality Gas pipes for safe installations."
+   },
+   {
+    "target": "products-gas-fittings",
+    "title": "Gas Fittings",
+    "blurb": "All types of Gas fittings and valves."
+   }
+  ]
+ },
+ "manhole-covers": {
+  "slug": "manhole-covers",
+  "page": "sub-manhole-covers",
+  "title": "Main Hole Covers",
+  "blurb": "Durable heavy-duty covers for all needs",
+  "cards": [
+   {
+    "target": "products-manhole-daigy",
+    "title": "Daigy Main Hole",
+    "blurb": "Cast iron Round & Square"
+   },
+   {
+    "target": "products-manhole-ss",
+    "title": "SS Main Hole",
+    "blurb": "Premium Stainless Steel"
+   },
+   {
+    "target": "products-manhole-plastic",
+    "title": "Plastic Main Hole",
+    "blurb": "Heavy duty reinforced plastic"
+   }
+  ]
+ },
+ "mirror-accessory": {
+  "slug": "mirror-accessory",
+  "page": "sub-mirror-accessory",
+  "title": "Mirrors & Accessories",
+  "blurb": "Elegant designs available in CP and Various Colors",
+  "cards": [
+   {
+    "target": "products-mirror",
+    "title": "Mirrors",
+    "blurb": "Round, Square & Designer Frames"
+   },
+   {
+    "target": "products-accessory",
+    "title": "Accessory Sets",
+    "blurb": "SS & PVC Color Sets"
+   }
+  ]
+ },
+ "pprc-companies": {
+  "slug": "pprc-companies",
+  "page": "sub-pprc-companies",
+  "title": "PPRC Fittings",
+  "blurb": "Select a Partner Company",
+  "cards": [
+   {
+    "target": "products-pprc-popular",
+    "title": "Popular",
+    "blurb": "Complete range of products"
+   },
+   {
+    "target": "products-pprc-turkplast",
+    "title": "Turkplast",
+    "blurb": "Premium quality fittings"
+   },
+   {
+    "target": "products-pprc-dura",
+    "title": "Dura",
+    "blurb": "Trusted home solutions"
+   },
+   {
+    "target": "products-pprc-iil",
+    "title": "IIL",
+    "blurb": "Reliable industrial pipes"
+   }
+  ]
+ },
+ "pprc-pvc": {
+  "slug": "pprc-pvc",
+  "page": "sub-pprc-pvc",
+  "title": "PVC & PPRC Fittings",
+  "blurb": "Choose your fitting type to see company categories",
+  "cards": [
+   {
+    "target": "sub-pvc-companies",
+    "title": "PVC Fittings",
+    "blurb": "UPVC for drainage & plumbing"
+   },
+   {
+    "target": "sub-pprc-companies",
+    "title": "PPRC Fittings",
+    "blurb": "Heat-resistant pipe solutions"
+   }
+  ]
+ },
+ "pvc-companies": {
+  "slug": "pvc-companies",
+  "page": "sub-pvc-companies",
+  "title": "PVC Fittings",
+  "blurb": "Select a Partner Company",
+  "cards": [
+   {
+    "target": "sub-pvc-popular-categories",
+    "title": "Popular",
+    "blurb": "Comprehensive PVC solutions"
+   },
+   {
+    "target": "products-pvc-turkplast",
+    "title": "Turkplast",
+    "blurb": "Premium PVC drainage"
+   },
+   {
+    "target": "products-pvc-dura",
+    "title": "Dura",
+    "blurb": "Trusted drainage pipes"
+   },
+   {
+    "target": "products-pvc-iil",
+    "title": "IIL",
+    "blurb": "Quality PVC fittings"
+   }
+  ]
+ },
+ "pvc-popular-categories": {
+  "slug": "pvc-popular-categories",
+  "page": "sub-pvc-popular-categories",
+  "title": "Popular PVC Fittings",
+  "blurb": "Choose a sub-category",
+  "cards": [
+   {
+    "target": "products-pvc-popular-pipes",
+    "title": "UPVC PIPES",
+    "blurb": "Premium quality drainage pipes"
+   },
+   {
+    "target": "products-pvc-popular-fittings",
+    "title": "UPVC FITTINGS",
+    "blurb": "Complete range of pipe fittings"
+   },
+   {
+    "target": "products-pvc-popular-electrical",
+    "title": "ELECTRICAL PIPES AND FITTINGS",
+    "blurb": "Conduit pipes & fittings"
+   }
+  ]
+ },
+ "sanitary": {
+  "slug": "sanitary",
+  "page": "sub-sanitary",
+  "title": "Sanitary Ware",
+  "blurb": "Select a type",
+  "cards": [
+   {
+    "target": "products-sanitary-commode",
+    "title": "Commodes",
+    "blurb": ""
+   },
+   {
+    "target": "products-sanitary-flush",
+    "title": "WC's/Flush",
+    "blurb": ""
+   },
+   {
+    "target": "products-sanitary-flush-Tanks",
+    "title": "Flush Tanks",
+    "blurb": ""
+   },
+   {
+    "target": "products-sanitary-wash",
+    "title": "Wash Basins",
+    "blurb": ""
+   },
+   {
+    "target": "products-kitchen-sinks",
+    "title": "KITCHEN SINKS",
+    "blurb": ""
+   }
+  ]
+ },
+ "tanks": {
+  "slug": "tanks",
+  "page": "sub-tanks",
+  "title": "Water Tanks",
+  "blurb": "Select a brand",
+  "cards": [
+   {
+    "target": "products-tanks-dura",
+    "title": "DURA Vertical Shaped Water Tank",
+    "blurb": ""
+   },
+   {
+    "target": "products-tanks-dura-horizontal",
+    "title": "DURA Horizontal Shaped Water Tank",
+    "blurb": ""
+   },
+   {
+    "target": "products-tanks-primemaster",
+    "title": "PRIME MASTER Water Tank",
+    "blurb": ""
+   },
+   {
+    "target": "products-tanks-suntuff",
+    "title": "SUNTUFF Water Tank",
+    "blurb": ""
+   },
+   {
+    "target": "products-tanks-master",
+    "title": "MASTER WATER TANK",
+    "blurb": ""
+   },
+   {
+    "target": "products-tanks-cover",
+    "title": "WATER TANK COVERS",
+    "blurb": ""
+   }
+  ]
+ }
+}

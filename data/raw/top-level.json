@@ -1,0 +1,158 @@
+[
+ {
+  "target": "sub-pprc-pvc",
+  "title": "PVC & PPRC Fittings",
+  "blurb": "Dura, Popular, IIL & Turk Plast",
+  "slug": "pprc-pvc"
+ },
+ {
+  "target": "products-gi",
+  "title": "GI Fittings",
+  "blurb": "China HE Fitting",
+  "slug": "gi"
+ },
+ {
+  "target": "sub-gas",
+  "title": "Gas Pipes & Fittings",
+  "blurb": "Gas Pipes & Gas Fittings",
+  "slug": "gas"
+ },
+ {
+  "target": "sub-faucets",
+  "title": "Faucets & Mixers",
+  "blurb": "Luxury Chrome Fittings",
+  "slug": "faucets"
+ },
+ {
+  "target": "sub-sanitary",
+  "title": "Sanitary Ware",
+  "blurb": "Commodes , WC's/Flush , Flush Tanks , Wash Baisans & Kitchen Sinks",
+  "slug": "sanitary"
+ },
+ {
+  "target": "sub-tanks",
+  "title": "Water Tanks",
+  "blurb": "Multi-Layer Hygienic Tanks",
+  "slug": "tanks"
+ },
+ {
+  "target": "products-geysers",
+  "title": "Geyser & Fittings",
+  "blurb": "Instant Electric Geysers",
+  "slug": "geysers"
+ },
+ {
+  "target": "products-curtain",
+  "title": "Curtain Pipes",
+  "blurb": "Steel, Fancy & Local",
+  "slug": "curtain"
+ },
+ {
+  "target": "products-motor",
+  "title": "Motor Pumps",
+  "blurb": "Water & Pressure Pumps",
+  "slug": "motor"
+ },
+ {
+  "target": "sub-garden-pipes",
+  "title": "Garden Pipes",
+  "blurb": "Dura & Terbela Garden Pipe",
+  "slug": "garden-pipes"
+ },
+ {
+  "target": "sub-ladder",
+  "title": "Folding Ladder",
+  "blurb": "Aluminum & Metal Ladders",
+  "slug": "ladder"
+ },
+ {
+  "target": "sub-mirror-accessory",
+  "title": "Mirror & Accessories",
+  "blurb": "CP and Color Sets",
+  "slug": "mirror-accessory"
+ },
+ {
+  "target": "sub-door-locks",
+  "title": "Door Locks",
+  "blurb": "Main Door & Handle Locks",
+  "slug": "door-locks"
+ },
+ {
+  "target": "sub-manhole-covers",
+  "title": "Main Hole Covers",
+  "blurb": "Daigy, SS & Plastic Covers",
+  "slug": "manhole-covers"
+ },
+ {
+  "target": "products-Plastic Sheets",
+  "title": "Waterproof Plastic Sheets",
+  "blurb": "Royal & Terbela Waterproof Plastic Cover",
+  "slug": "Plastic Sheets"
+ },
+ {
+  "target": "products-filters",
+  "title": "Water Filters",
+  "blurb": "Water Filters",
+  "slug": "filters"
+ },
+ {
+  "target": "products-automatic-machine-pipe",
+  "title": "Automatic Machine Pipe",
+  "blurb": "Automatic Machine Pipe & Bush",
+  "slug": "automatic-machine-pipe"
+ },
+ {
+  "target": "products-kitchen-hood-pipe",
+  "title": "Kitchen Hood Pipe",
+  "blurb": "Kitchen Hood Pipe",
+  "slug": "kitchen-hood-pipe"
+ },
+ {
+  "target": "products-wall-cover",
+  "title": "Wall cover",
+  "blurb": "Wall cover",
+  "slug": "wall-cover"
+ },
+ {
+  "target": "products-floor-waste",
+  "title": "Floor Waste",
+  "blurb": "Floor Waste",
+  "slug": "floor-waste"
+ },
+ {
+  "target": "products-brass-gate-valve",
+  "title": "Brass Gate-Valve",
+  "blurb": "1/2\" to 2\" Sizes Available",
+  "slug": "brass-gate-valve"
+ },
+ {
+  "target": "products-handle-valve",
+  "title": "Handle Valve",
+  "blurb": "Faisal, Kitz, KTC, Dura & More",
+  "slug": "handle-valve"
+ },
+ {
+  "target": "products-check-valve",
+  "title": "Check Valve",
+  "blurb": "TFE & ROMA Specialized Check Valves",
+  "slug": "check-valve"
+ },
+ {
+  "target": "products-no-return-valve",
+  "title": "No Return Valve",
+  "blurb": "CITI, TFE & RBS No Return Solutions",
+  "slug": "no-return-valve"
+ },
+ {
+  "target": "products-pvc-solutions",
+  "title": "PVC Solutions",
+  "blurb": "50g to 500g Sizes Available",
+  "slug": "pvc-solutions"
+ },
+ {
+  "target": "products-silicones-adhesives",
+  "title": "Silicones & Adhesives",
+  "blurb": "High-performance silicones and adhesives for sealing and bonding applications.",
+  "slug": "silicones-adhesives"
+ }
+]

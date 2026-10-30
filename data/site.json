@@ -1,0 +1,300 @@
+{
+ "partners": [
+  {
+   "slug": "dura",
+   "title": "Dura Flow",
+   "intro": "Choose a product category by Dura Flow",
+   "cards": [
+    {
+     "title": "Dura Flow PVC",
+     "blurb": "UPVC for drainage & plumbing",
+     "category": "pvc-dura"
+    },
+    {
+     "title": "Dura Flow PPRC",
+     "blurb": "Heat-resistant pipe solutions",
+     "category": "pprc-dura"
+    },
+    {
+     "title": "Dura Water Tanks",
+     "blurb": "Durable water storage tanks",
+     "category": "tanks-dura"
+    },
+    {
+     "title": "Dura Garden Pipes",
+     "blurb": "Flexible garden hoses",
+     "category": "garden-dura"
+    }
+   ]
+  },
+  {
+   "slug": "iil",
+   "title": "International Industries Limited (IIL)",
+   "intro": "Choose a product category by IIL",
+   "cards": [
+    {
+     "title": "IIL PVC",
+     "blurb": "Industrial grade PVC",
+     "category": "pvc-iil"
+    },
+    {
+     "title": "IIL PPRC",
+     "blurb": "Industrial grade PPRC",
+     "category": "pprc-iil"
+    }
+   ]
+  },
+  {
+   "slug": "popular",
+   "title": "Popular Pipes",
+   "intro": "Choose a product category by Popular Pipes",
+   "cards": [
+    {
+     "title": "Popular PVC",
+     "blurb": "UPVC Pipes, Fittings & Electrical",
+     "category": "pvc-popular-categories"
+    },
+    {
+     "title": "Popular PPRC",
+     "blurb": "Heat-resistant pipe solutions",
+     "category": "pprc-popular"
+    }
+   ]
+  },
+  {
+   "slug": "turkplast",
+   "title": "Turk Plast",
+   "intro": "Choose a product category by Turk Plast",
+   "cards": [
+    {
+     "title": "Turk Plast PVC",
+     "blurb": "Premium UPVC fittings",
+     "category": "pvc-turkplast"
+    },
+    {
+     "title": "Turk Plast PPRC",
+     "blurb": "Premium PPRC systems",
+     "category": "pprc-turkplast"
+    }
+   ]
+  }
+ ],
+ "policies": [
+  {
+   "slug": "privacy-policy",
+   "title": "Privacy Policy",
+   "blocks": [
+    {
+     "type": "h3",
+     "text": "1. Introduction"
+    },
+    {
+     "type": "p",
+     "text": "Welcome to Akbar Sanitary Store. We value your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you visit our website or visit our showroom."
+    },
+    {
+     "type": "h3",
+     "text": "2. Information We Collect"
+    },
+    {
+     "type": "p",
+     "text": "We may collect personal information such as your name, contact number, and address when you make an inquiry via our contact form or WhatsApp. This information is used solely to provide you with the services and products you request."
+    },
+    {
+     "type": "h3",
+     "text": "3. Use of Information"
+    },
+    {
+     "type": "p",
+     "text": "Your information is used for processing orders, responding to inquiries, and improving our customer service. We do not sell or share your personal data with third parties for marketing purposes."
+    }
+   ]
+  },
+  {
+   "slug": "terms-conditions",
+   "title": "Terms & Conditions",
+   "blocks": [
+    {
+     "type": "h3",
+     "text": "1. General"
+    },
+    {
+     "type": "p",
+     "text": "By accessing this website, you agree to comply with and be bound by these terms and conditions. The content of this website is for your general information and use only."
+    },
+    {
+     "type": "h3",
+     "text": "2. Product Accuracy"
+    },
+    {
+     "type": "p",
+     "text": "While we strive for accuracy, product specifications and availability may change without notice. Images are for illustrative purposes; the actual product may vary slightly in appearance."
+    },
+    {
+     "type": "h3",
+     "text": "3. Pricing"
+    },
+    {
+     "type": "p",
+     "text": "Prices are subject to change due to market conditions. For the most accurate and up-to-date pricing, please contact us directly via the provided phone numbers or visit our store."
+    }
+   ]
+  },
+  {
+   "slug": "exchange-return",
+   "title": "Exchange & Return",
+   "blocks": [
+    {
+     "type": "h3",
+     "text": "1. Exchange Policy"
+    },
+    {
+     "type": "p",
+     "text": "Items can be exchanged within 7 days of purchase, provided they are in their original packaging, unused, and accompanied by the original receipt."
+    },
+    {
+     "type": "h3",
+     "text": "2. Non-Returnable Items"
+    },
+    {
+     "type": "p",
+     "text": "Custom-ordered items, broken tiles, or items that have been installed are not eligible for exchange or return. Please inspect all goods upon delivery."
+    },
+    {
+     "type": "h3",
+     "text": "3. Return Process"
+    },
+    {
+     "type": "p",
+     "text": "To initiate a return or exchange, please visit our showroom on Ghazi Road with the product and proof of purchase. Final decision on returns rests with the store management."
+    }
+   ]
+  },
+  {
+   "slug": "refund-policy",
+   "title": "Refund Policy",
+   "blocks": [
+    {
+     "type": "h3",
+     "text": "1. Eligibility"
+    },
+    {
+     "type": "p",
+     "text": "Refunds are only processed if a product is found to have a manufacturing defect and cannot be replaced with a similar item. Change of mind is not applicable for refunds."
+    },
+    {
+     "type": "h3",
+     "text": "2. Process"
+    },
+    {
+     "type": "p",
+     "text": "Refunds will be processed through the original method of payment or store credit, depending on the situation, within 5-7 working days after approval."
+    }
+   ]
+  },
+  {
+   "slug": "cancellation-policy",
+   "title": "Cancellation Policy",
+   "blocks": [
+    {
+     "type": "h3",
+     "text": "1. Order Cancellation"
+    },
+    {
+     "type": "p",
+     "text": "Orders can be canceled within 24 hours of placement or before they are dispatched for delivery. Once the items have left our warehouse, cancellation is not possible."
+    },
+    {
+     "type": "h3",
+     "text": "2. Advance Payments"
+    },
+    {
+     "type": "p",
+     "text": "Advance payments for special bookings or custom orders are non-refundable in case of cancellation by the customer."
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What materials are your faucets made of?",
+   "a": "Our faucets are made from high-grade brass with a premium chrome finish. This ensures durability, resistance to rust and corrosion, and a long-lasting shine."
+  },
+  {
+   "q": "Do your products come with a warranty?",
+   "a": "Yes, all our products come with a warranty or guarantee, but the duration depends on the product type and material. Please note that ceramic products do not come with any warranty or guarantee."
+  },
+  {
+   "q": "What payment methods do you accept?",
+   "a": "We accept various payment methods, including credit cards, jazzcash, easypaisa, sadapay, and bank transfers."
+  },
+  {
+   "q": "How do I contact customer service?",
+   "a": "You can contact our customer service team through phone, email, or our website's contact form."
+  },
+  {
+   "q": "What products do you offer?",
+   "a": "We offer a range of sanitary products, including those from reputable brands like Popular, Dura, IIL, Turkplast and also GI(HE) fittings."
+  },
+  {
+   "q": "Are your products of high quality?",
+   "a": "Yes, we prioritize quality and source products from trusted manufacturers like Dura, Popular and Turkplast."
+  },
+  {
+   "q": "Can I trust the authenticity of your products?",
+   "a": "Absolutely! We only deal in genuine products from authorized distributors."
+  },
+  {
+   "q": "What brands do you partner with?",
+   "a": "We partner with renowned brands like Dura, Popular, IIL, GI(HE) and Turkplast, ensuring high-quality products for our customers."
+  },
+  {
+   "q": "Do you have any certifications from Dura, Popular, and Turkplast?",
+   "a": "Yes, we hold certificates from these reputable companies, confirming authorization to distribute their products."
+  },
+  {
+   "q": "What does the certification from Dura, Popular, and Turkplast mean?",
+   "a": "It means we've met their standards for quality, reliability, and business practices, ensuring our customers receive authentic products."
+  },
+  {
+   "q": "Is your sanitary business registered with the government?",
+   "a": "Yes, our business is fully registered and compliant with all relevant government regulations."
+  },
+  {
+   "q": "Can I see your certificates?",
+   "a": "Yes, we can provide documentation upon request, showcasing our certification with these brands."
+  },
+  {
+   "q": "How does this certification benefit customers?",
+   "a": "It guarantees product authenticity, quality, and reliability, giving customers peace of mind when purchasing from us."
+  },
+  {
+   "q": "Are you an authorized distributor for these brands?",
+   "a": "Yes, our certification confirms our authorized status."
+  },
+  {
+   "q": "What areas do you serve?",
+   "a": "We serve in all over Lahore but mostly in areas like Defence, Model town, Johar town, Bahria town, Central Park and many more."
+  },
+  {
+   "q": "How do I schedule a service appointment?",
+   "a": "You can schedule an appointment by calling us at [03211306560, 03214715974, 03211106560] or through our website."
+  },
+  {
+   "q": "Do you offer emergency plumbing services?",
+   "a": "Yes, we offer emergency plumbing services for urgent issues."
+  },
+  {
+   "q": "What types of sanitary fittings do you install?",
+   "a": "We install a wide range of sanitary fittings, including toilets, sinks, showers, and more."
+  },
+  {
+   "q": "Do you provide warranties on your work?",
+   "a": "Yes, we provide warranties on our work and products."
+  },
+  {
+   "q": "How can I get a quote for my project?",
+   "a": "You can get a quote by contacting us through our website or giving us a call."
+  }
+ ]
+}
