@@ -3,7 +3,7 @@ import ContactForm from '@/components/ContactForm';
 import { Clock, Mail, Phone, Pin } from '@/components/Icons';
 import { STORE } from '@/lib/data';
 
-export const metadata: Metadata = { title: 'Contact us', description: 'Visit, call or WhatsApp Akbar & Sons Sanitary Store in Lahore.' };
+export const metadata: Metadata = { title: 'Contact us', description: 'Visit, call or WhatsApp Akbar Sanitary Store in Lahore.' };
 
 export default function Contact() {
   return (

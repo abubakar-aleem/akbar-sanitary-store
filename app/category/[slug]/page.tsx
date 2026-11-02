@@ -16,7 +16,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const c = categories[slug];
-  return c ? { title: c.title, description: `${c.title} at Akbar & Sons Sanitary Store, Lahore.` } : {};
+  return c ? { title: c.title, description: `${c.title} at Akbar Sanitary Store, Lahore.` } : {};
 }
 
 export default async function Category({ params }: { params: Promise<{ slug: string }> }) {

@@ -12,7 +12,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id } = await params;
   const p = getProduct(id);
-  return p ? { title: p.name, description: p.desc || `${p.name} at Akbar & Sons Sanitary Store, Lahore.` } : {};
+  return p ? { title: p.name, description: p.desc || `${p.name} at Akbar Sanitary Store, Lahore.` } : {};
 }
 
 export default async function ProductPage({ params }: { params: Promise<{ id: string }> }) {

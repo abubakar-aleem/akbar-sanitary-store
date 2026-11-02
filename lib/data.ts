@@ -33,8 +33,8 @@ export type CategoryNode = {
 };
 
 export const STORE = {
-  name: 'Akbar & Sons Sanitary Store',
-  short: 'Akbar & Sons',
+  name: 'Akbar Sanitary Store',
+  short: 'Akbar Sanitary Store',
   since: 1994,
   whatsapp: '923211306560',
   phones: ['+92 321 471 5974', '+92 321 110 6560', '+92 321 130 6560'],

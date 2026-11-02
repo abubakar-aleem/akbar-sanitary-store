@@ -58,14 +58,14 @@ export default function ProductStory({ p, kind, image, categoryTitle, categoryHr
     setDone(true);
     setTimeout(() => setDone(false), 1500);
   };
-  const waText = `Hello Akbar & Sons! I want to order:\n${p.name}${size && size !== 'Standard' ? ` (${size})` : ''} x ${qty}\nApprox. Rs. ${Math.round(p.price * qty).toLocaleString('en-PK')}. Please confirm price and availability.`;
+  const waText = `Hello Akbar Sanitary Store! I want to order:\n${p.name}${size && size !== 'Standard' ? ` (${size})` : ''} x ${qty}\nApprox. Rs. ${Math.round(p.price * qty).toLocaleString('en-PK')}. Please confirm price and availability.`;
 
   const chapters = [
     (
       <>
         <span className="kicker">{categoryTitle ? <Link href={categoryHref || '/categories'}>{categoryTitle}</Link> : 'Product'}</span>
         <h1>{p.name}</h1>
-        <p>{p.desc || 'Quality product from Akbar & Sons Sanitary Store. Ask us on WhatsApp for full details.'}</p>
+        <p>{p.desc || 'Quality product from Akbar Sanitary Store. Ask us on WhatsApp for full details.'}</p>
         <div className="chips"><span className="chip on">In our catalog</span>{p.sale && <span className="chip on">On sale</span>}</div>
       </>
     ),

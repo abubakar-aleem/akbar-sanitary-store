@@ -37,8 +37,8 @@ export default function Header() {
     <>
       <div className="nav-wrap">
         <header className="nav">
-          <Link href="/" className="logo" aria-label="Akbar & Sons Sanitary Store - home">
-            Akbar <b>&amp;</b> Sons<i />
+          <Link href="/" className="logo" aria-label="Akbar Sanitary Store - home">
+            Akbar <b>Sanitary</b> Store<i />
           </Link>
           <nav className="nav-links" aria-label="Main">
             {LINKS.map((l) => (

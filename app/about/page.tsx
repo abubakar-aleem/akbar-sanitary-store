@@ -4,7 +4,7 @@ import Marquee from '@/components/Marquee';
 import Pic from '@/components/Pic';
 import { STORE } from '@/lib/data';
 
-export const metadata: Metadata = { title: 'About us', description: 'Akbar & Sons Sanitary Store: trusted plumbing and sanitary supplies in Lahore since 1994.' };
+export const metadata: Metadata = { title: 'About us', description: 'Akbar Sanitary Store: trusted plumbing and sanitary supplies in Lahore since 1994.' };
 
 export default function About() {
   const yrs = new Date().getFullYear() - STORE.since;
@@ -18,7 +18,7 @@ export default function About() {
             <p className="lead">For over three decades we have been a cornerstone of quality sanitary and plumbing supply in Lahore. Our commitment to excellence has made us a household name for homeowners, builders and plumbers.</p>
           </div>
           <div className="stage" style={{ aspectRatio: '1 / 0.85' }}>
-            <Pic site="about" alt="Akbar & Sons Sanitary Store" kind="faucet" />
+            <Pic site="about" alt="Akbar Sanitary Store" kind="faucet" />
           </div>
         </div>
       </section>

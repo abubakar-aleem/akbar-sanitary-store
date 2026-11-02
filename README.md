@@ -1,4 +1,4 @@
-# Akbar & Sons Sanitary Store - new website (Phase 1: frontend)
+# Akbar Sanitary Store - new website (Phase 1: frontend)
 
 Next.js + GSAP-free scroll chapters + Three.js 3D. Orders go through WhatsApp. No backend yet (Phase 2).
 

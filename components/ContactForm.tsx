@@ -6,7 +6,7 @@ import { Whatsapp } from './Icons';
 export default function ContactForm() {
   const [f, setF] = useState({ name: '', phone: '', need: '' });
   const set = (k: keyof typeof f) => (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => setF((x) => ({ ...x, [k]: e.target.value }));
-  const msg = `Hello Akbar & Sons!\nName: ${f.name || '-'}\nPhone: ${f.phone || '-'}\nI need: ${f.need || '-'}`;
+  const msg = `Hello Akbar Sanitary Store!\nName: ${f.name || '-'}\nPhone: ${f.phone || '-'}\nI need: ${f.need || '-'}`;
   return (
     <form className="summary" style={{ position: 'static' }} onSubmit={(e) => { e.preventDefault(); window.open(whatsappUrl(msg), '_blank', 'noopener'); }}>
       <h2 className="h3">Send us your requirement</h2>

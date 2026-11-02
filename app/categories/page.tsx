@@ -6,7 +6,7 @@ import { Arrow } from '@/components/Icons';
 import { categoryObjectKind, countProducts, topCategories } from '@/lib/data';
 import { pad2 } from '@/lib/format';
 
-export const metadata: Metadata = { title: 'Categories', description: 'All product categories at Akbar & Sons Sanitary Store.' };
+export const metadata: Metadata = { title: 'Categories', description: 'All product categories at Akbar Sanitary Store.' };
 
 export default function Categories() {
   return (

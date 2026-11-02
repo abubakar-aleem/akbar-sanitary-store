@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer-grid">
           <div>
-            <h5>Akbar &amp; Sons</h5>
+            <h5>Akbar Sanitary Store</h5>
             <p>The leading supplier of premium sanitary ware and plumbing solutions in Lahore since {STORE.since}. Quality you can build on.</p>
             <div className="social" aria-label="Social links">
               <a href={STORE.social.facebook} aria-label="Facebook" target="_blank" rel="noopener noreferrer">Fb</a>
@@ -50,7 +50,7 @@ export default function Footer() {
             <p style={{ marginTop: 12 }}>{STORE.hours.join(' · ')}</p>
           </div>
         </div>
-        <div className="giant" aria-hidden="true">Akbar &amp; Sons<i>.</i></div>
+        <div className="giant" aria-hidden="true">Akbar Sanitary Store<i>.</i></div>
         <div className="copy">
           <span>© {new Date().getFullYear()} {STORE.name}. All rights reserved.</span>
           <span>Prices shown are approximate. Please confirm on WhatsApp.</span>

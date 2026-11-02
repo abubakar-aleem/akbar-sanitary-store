@@ -10,7 +10,7 @@ import ScrollProgress from '@/components/ScrollProgress';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
 
 export const metadata: Metadata = {
-  title: { default: 'Akbar & Sons Sanitary Store | Premium Plumbing & Sanitary Ware, Lahore', template: '%s | Akbar & Sons' },
+  title: { default: 'Akbar Sanitary Store | Premium Plumbing & Sanitary Ware, Lahore', template: '%s | Akbar Sanitary Store' },
   description: 'Pipes, fittings, faucets, tanks and sanitary ware from authorized dealers of Dura, Popular, Turk Plast and IIL. Serving Lahore since 1994.',
 };
 export const viewport: Viewport = { themeColor: '#e3e6eb', width: 'device-width', initialScale: 1 };
