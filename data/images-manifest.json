@@ -1,5 +1,19 @@
 {
  "products": {},
- "categories": {},
- "site": {}
+ "categories": {
+  "curtain": "curtain.jpg",
+  "faucets": "faucets.jpg",
+  "gas": "gas.jpg",
+  "geysers": "geysers.jpg",
+  "gi": "gi.jpg",
+  "pprc-pvc": "pprc-pvc.jpg",
+  "sanitary": "sanitary.jpg",
+  "tanks": "tanks.jpg"
+ },
+ "site": {
+  "hero-faucet": "hero-faucet.jpg",
+  "hero-pipe": "hero-pipe.jpg",
+  "hero-tank": "hero-tank.jpg",
+  "hero-valve": "hero-valve.jpg"
+ }
 }

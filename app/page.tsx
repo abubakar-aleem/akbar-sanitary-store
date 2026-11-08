@@ -6,7 +6,7 @@ import Pic from '@/components/Pic';
 import ProductCard from '@/components/ProductCard';
 import HomeStory from '@/components/HomeStory';
 import { Arrow } from '@/components/Icons';
-import { STORE, countProducts, products, site, topCategories, categoryObjectKind } from '@/lib/data';
+import { STORE, siteImage, countProducts, products, site, topCategories, categoryObjectKind } from '@/lib/data';
 import { pad2 } from '@/lib/format';
 
 export default function Home() {
@@ -37,7 +37,7 @@ export default function Home() {
               <div className="stat"><b>4</b><span>Authorized brands</span></div>
             </div>
           </div>
-          <HeroScene />
+          <HeroScene images={Object.fromEntries(['hero-faucet', 'hero-valve', 'hero-pipe', 'hero-tank', 'hero-bowl'].map((n) => [n, siteImage(n)]).filter(([, v]) => v))} />
         </div>
       </section>
 
